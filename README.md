@@ -3,15 +3,10 @@
 ![Logo](https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/drawable/waterdelivery_logo.png)
 # water-delivery-app
 For the splash screen
-```html <lottie-player
-  autoplay
-  controls
-  loop
-  mode="normal"
-  src="https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/raw/splash_bottle.json"
-  style="width: 320px"
->
-</lottie-player>
+```html <a href="https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/raw/splash_bottle.json"
+  
+>splash screen.json</a>
+
 ```
 
 ## Download
