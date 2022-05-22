@@ -1,5 +1,6 @@
 package com.wtech.waterdeliveryapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -24,7 +25,7 @@ class WelcomeActivity : AppCompatActivity() {
 
 
         signupButton.setOnClickListener {
-
+            startActivity(Intent(this@WelcomeActivity,SignUPActivity::class.java))
         }
         signInButton.setOnClickListener {
 
