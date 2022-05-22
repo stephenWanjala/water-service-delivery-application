@@ -1,11 +1,28 @@
 ﻿# water-service-delivery-application
+ 
 ![Logo](https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/drawable/waterdelivery_logo.png)
 # water-delivery-app
 For the splash screen
-![splash screen](https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/raw/splash_bottle.json)
+<lottie-player
+  autoplay
+  controls
+  loop
+  mode="normal"
+  src="https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/raw/splash_bottle.json"
+  style="width: 320px"
+>
+</lottie-player>
 
 ## Download
-
+<lottie-player
+  autoplay
+  controls
+  loop
+  mode="normal"
+  src="https://assets3.lottiefiles.com/packages/lf20_UJNc2t.json"
+  style="width: 320px"
+>
+</lottie-player>
 Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 
 ```groovy
@@ -21,3 +38,4 @@ The latest stable [Lottie-Compose](http://airbnb.io/lottie/#/android-compose) ve
 Click [here](http://airbnb.io/lottie/#/android-compose) for more information on Lottie-Compose.
 
 Lottie 2.8.0 and above only supports projects that have been migrated to [androidx](https://developer.android.com/jetpack/androidx/). For more information, read Google's [migration guide](https://developer.android.com/jetpack/androidx/migrate).
+<script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
