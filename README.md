@@ -1,5 +1,5 @@
 ﻿# water-service-delivery-application
-![Logo](https://github.com/[stephenWanjala]/[water-service-delivery-application]/blob/[master]/https://github.com/stephenWanjala/water-service-delivery-application?raw=true)
+![Logo](https://github.com/stephenWanjala/water-service-delivery-application?raw=true)
 # water-delivery-app
 For the splash screen
 <img src="res/raw/splash_bottle.json">
