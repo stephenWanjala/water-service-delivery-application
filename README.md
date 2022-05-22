@@ -3,7 +3,7 @@
 ![Logo](https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/drawable/waterdelivery_logo.png)
 # water-delivery-app
 For the splash screen
-<lottie-player
+```html <lottie-player
   autoplay
   controls
   loop
@@ -12,17 +12,10 @@ For the splash screen
   style="width: 320px"
 >
 </lottie-player>
+```
 
 ## Download
-<lottie-player
-  autoplay
-  controls
-  loop
-  mode="normal"
-  src="https://assets3.lottiefiles.com/packages/lf20_UJNc2t.json"
-  style="width: 320px"
->
-</lottie-player>
+
 Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 
 ```groovy
