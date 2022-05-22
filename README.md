@@ -2,12 +2,7 @@
  
 ![Logo](https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/drawable/waterdelivery_logo.png)
 # water-delivery-app
-For the splash screen
-```html <a href="https://github.com/stephenWanjala/water-service-delivery-application/blob/master/app/src/main/res/raw/splash_bottle.json"
-  
->splash screen.json</a>
-
-```
+<a href="https://assets8.lottiefiles.com/packages/lf20_P5CcfI.json" target="_blank">Introduction</a>
 
 ## Download
 
