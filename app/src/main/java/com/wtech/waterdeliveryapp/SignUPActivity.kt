@@ -1,5 +1,6 @@
 package com.wtech.waterdeliveryapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -110,6 +111,8 @@ class SignUPActivity : AppCompatActivity() {
                             Toast.LENGTH_LONG)
                             .show()
                         progressBar.visibility=View.GONE
+                        startActivity(Intent(this@SignUPActivity,WelcomeActivity::class.java))
+                        finish()
                     } else{
                         Toast.makeText(this@SignUPActivity,"$fName con Registration Failed",
                             Toast.LENGTH_LONG)
