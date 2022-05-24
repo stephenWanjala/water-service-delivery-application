@@ -91,7 +91,7 @@ class SignUPActivity : AppCompatActivity() {
                         val database = Firebase.database
                         val myRef = auth.currentUser?.let { it1 ->
                             database.getReference("Users")
-                                .child(it1.uid)
+                                .child(user.userName)
                                 .setValue(user)
                                 .addOnCompleteListener {
                                     if (it.isSuccessful){
