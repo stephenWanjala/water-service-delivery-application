@@ -16,7 +16,7 @@ import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 
 class SignUPActivity : AppCompatActivity() {
-    private lateinit var auth: FirebaseAuth;
+    private lateinit var auth: FirebaseAuth
     private lateinit var signUpButton: Button
     private lateinit var email:TextInputEditText
     private lateinit var firstName:TextInputEditText

@@ -24,6 +24,7 @@ class WelcomeActivity : AppCompatActivity() {
             startActivity(Intent(this@WelcomeActivity,SignUPActivity::class.java))
         }
         signInButton.setOnClickListener {
+            startActivity(Intent(this@WelcomeActivity,SignInActivity::class.java))
 
         }
     }
