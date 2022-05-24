@@ -13,11 +13,7 @@ class WelcomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_welcome)
-        // Write a message to the database
-        val database = Firebase.database
-        val myRef = database.getReference("message")
 
-        myRef.setValue("Hello, john")
 
         signupButton=findViewById(R.id.btnSignUp)
         signInButton=findViewById(R.id.btnSignIn)
