@@ -94,6 +94,8 @@ class SignInActivity : AppCompatActivity() {
         }
 
         forgotPasswordTxet.setOnClickListener {
+            startActivity(Intent(this@SignInActivity,ForgotPasswordActivity::class.java))
+
 
         }
 
