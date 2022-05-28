@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">water delivery app</string>
+    <string name="menu_drawerClose">Drawer Close</string>
+    <string name="menu_drawerOpen">Drawer Open</string>
 </resources>

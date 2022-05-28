@@ -5,11 +5,18 @@
       <map>
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/drawable/signup_button.xml" value="0.235" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/font/poppins_extralight_italic.xml" value="0.15" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_customer.xml" value="0.140625" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_dash_board.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_drawer.xml" value="0.22" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_forgot_password.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_orders.xml" value="0.140625" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_sign_upactivity.xml" value="0.18" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_splash.xml" value="0.26458333333333334" />
         <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/activity_welcome.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/content_layout.xml" value="0.2625" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/layout/main_drawer_header.xml" value="0.2625" />
+        <entry key="..\:/Users/W~tech/AndroidStudioProjects/waterdeliveryapp/app/src/main/res/menu/main_drawer_menu.xml" value="0.2635416666666667" />
       </map>
     </option>
   </component>

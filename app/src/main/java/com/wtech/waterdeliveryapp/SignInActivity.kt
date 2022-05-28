@@ -78,6 +78,10 @@ class SignInActivity : AppCompatActivity() {
                                 Toast.LENGTH_LONG)
                                 .show()
                             progressBarSignIn.visibility=View.GONE
+                            startActivity(Intent(
+                                this@SignInActivity,DashBoardActivity::class.java
+                            ))
+                            finish()
                         } else {
                             Toast.makeText(this@SignInActivity, "Failed to sign in", Toast.LENGTH_LONG)
                                 .show()

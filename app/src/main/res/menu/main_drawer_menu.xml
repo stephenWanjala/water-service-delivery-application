@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_orders"
+        android:title="Orders"
+        android:icon="@drawable/ic_orders"/>
+    <item android:id="@+id/nav_brand"
+        android:title="Brand"
+        android:icon="@drawable/ic_brandm"/>
+    <item android:id="@+id/nav_customers"
+        android:title="Customers"
+        android:icon="@drawable/ic_users"/>
+    <item android:id="@+id/nav_sales"
+        android:title="Sales"
+        android:icon="@drawable/ic_sale"/>
+
+    <item android:id="@+id/nav_rider"
+        android:title="Riders"
+        android:icon="@drawable/ic_bike"/>
+
+    <item android:id="@+id/nav_deals"
+        android:title="Deals"
+        android:icon="@drawable/ic_electric_bike"/>
+
+
+</group>
+</menu>
